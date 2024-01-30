@@ -1,0 +1,10 @@
+body{
+    height:100vh;
+    display: flex;
+    align-items:center;
+    justify-items: center;
+    font-family: 'Montserral', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    background: #3054ae;
+}
